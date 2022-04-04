@@ -1,6 +1,6 @@
 ### Hi there 👋
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/html.svg" width="30" />
 
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkozlicki&layout=compact&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 
