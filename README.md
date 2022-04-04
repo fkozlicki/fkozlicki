@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="" width="" />
+
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkozlicki&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 <!--
