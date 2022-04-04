@@ -9,6 +9,7 @@ const filip = {
   sex: "male",
   age: 20,
   country: "Poland",
+  city: "Lublin",
   university: "Maria Curie-Sklodowska University - CS",
   languages: ["polish", "english"],
   title: "web dev wannabe",
