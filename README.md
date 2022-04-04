@@ -1,28 +1,31 @@
-# Hi, I'm Filip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Hi, I'm Filip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <em>Beginner Web Developer</br>Student at UMCS</em>
 
- ## 👨‍💻 About Me
- 
+## 👨‍💻 About Me
+
 ```javascript
 const filip = {
-  sex: "male",
-  age: 20,
-  country: "Poland",
-  city: "Lublin",
-  university: "Maria Curie-Sklodowska University - CS",
-  languages: ["polish", "english"],
-  title: "web dev wannabe",
-  employed: false,
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and algorithms"
-}
+	sex: "male",
+	age: 20,
+	country: "Poland",
+	city: "Lublin",
+	university: "Maria Curie-Sklodowska University - CS",
+	languages: ["polish", "english"],
+	title: "web dev wannabe",
+	employed: false,
+	challenge:
+		"I am doing the #100DaysOfCode challenge focused on react and algorithms",
+};
 ```
+
 ## 🔧 Technologies & Tools
 
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/git.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/vscode.svg" width="30"/>
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/git.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/vscode.svg" width="30"/>
 
 ### 📒 Learning
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/ts.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/next.svg" width="30" />
+
+<img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/ts.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/next.svg" width="30" />
 
 ## 📊 Some stats
 
