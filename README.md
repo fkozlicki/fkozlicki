@@ -19,7 +19,7 @@ const filip = {
 <img src="https://github.com/fkozlicki/fkozlicki/blob/main/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30"/> 
 
 Learning </br></br>
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/next.svg" width="30" /> &nbsp; <img src="https://github.com/fkozlicki/fkozlicki/blob/main/ts.svg" width="30" /> 
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/next.svg" fill="white" width="30" /> &nbsp; <img src="https://github.com/fkozlicki/fkozlicki/blob/main/ts.svg" width="30" /> 
 
 ## 📊 Some stats
 
