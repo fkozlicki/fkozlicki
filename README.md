@@ -21,11 +21,11 @@ const filip = {
 
 ## 🔧 Technologies & Tools
 
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/git.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/vscode.svg" width="30"/>
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/git.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/vscode.svg" width="30"/>
 
 ### 📒 Learning
 
-<img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/ts.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/tree/main/icons/next.svg" width="30" />
+<img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/ts.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/next.svg" width="30" />
 
 ## 📊 Some stats
 
