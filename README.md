@@ -2,6 +2,8 @@
 
 <img src="https://github.com/fkozlicki/fkozlicki/blob/main/bs.svg" width="30" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkozlicki&layout=compact&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkozlicki&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 <!--
 **fkozlicki/fkozlicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
