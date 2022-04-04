@@ -31,7 +31,7 @@ const filip = {
 
 ## 📝 Contact
 
-[![Website Badge](https://img.shields.io/static/v1?label=&labelColor=ffffff&message=kozlicki&color=%23000000&style=flat&logo=google-chrome&logoColor=%23000000)](https://kozlicki.com)
+[![Website Badge](https://img.shields.io/static/v1?label=&labelColor=ffffff&message=kozlicki&color=%23000000&style=flat&logo=google-chrome&logoColor=%23000000)](https://kozlicki.com){:target="_blank"}
 [![Gmail Badge](https://img.shields.io/badge/-filip.kozlickii@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-fkozlicki-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fkozlicki/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@FKozlicki-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fkozlicki "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-fkozlicki-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fkozlicki/ "Connect on LinkedIn"){:target="_blank"}
+[![Twitter Badge](https://img.shields.io/badge/-@FKozlicki-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fkozlicki "Follow on Twitter"){:target="_blank"}
