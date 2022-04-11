@@ -14,8 +14,7 @@ const filip = {
 	languages: ["polish", "english"],
 	title: "web dev wannabe",
 	employed: false,
-	challenge:
-		"I am doing the #100DaysOfCode challenge focused on react and algorithms",
+	challenge: "I am doing the #100DaysOfCode challenge focused on react and algorithms",
 };
 ```
 
