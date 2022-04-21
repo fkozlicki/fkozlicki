@@ -12,9 +12,8 @@ const filip = {
 	city: "Lublin",
 	university: "Maria Curie-Sklodowska University - CS",
 	languages: ["polish", "english"],
-	title: "web dev wannabe",
 	employed: false,
-	challenge: "I am doing the #100DaysOfCode challenge focused on react and algorithms",
+	bio: "1st year student and self-taught frontend dev (wannabe). I have no clue how to reverse LinkedList but can help you center a div. If you want to ask me something feel free to cantact me.",
 };
 ```
 
