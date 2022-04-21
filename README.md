@@ -13,7 +13,9 @@ const filip = {
 	university: "Maria Curie-Sklodowska University - CS",
 	languages: ["polish", "english"],
 	employed: false,
-	bio: "1st year student and self-taught frontend dev (wannabe). I have no clue how to reverse LinkedList but can help you center a div. If you want to ask me something feel free to cantact me.",
+	bio: "1st year student and self-taught frontend dev (wannabe).
+	I have no clue how to reverse LinkedList but can help you center a div. 
+	If you want to ask me something feel free to cantact me.",
 };
 ```
 
