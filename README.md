@@ -15,7 +15,7 @@ const filip = {
 	employed: false,
 	bio: "1st year student and self-taught frontend dev (wannabe).
 	I have no clue how to reverse LinkedList but can help you center a div. 
-	If you want to ask me something feel free to cantact me.",
+	If you want to ask about something more feel free to cantact me.",
 };
 ```
 
