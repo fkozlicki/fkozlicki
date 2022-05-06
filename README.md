@@ -32,8 +32,6 @@ const filip = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkozlicki&layout=compact&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkozlicki&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
-
 ## 📝 Contact
 
 <a href="https://kozlicki.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&labelColor=ffffff&message=kozlicki&color=%23000000&style=flat&logo=google-chrome&logoColor=%23000000" alt="website" /></a>
