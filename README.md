@@ -10,7 +10,6 @@ const filip = {
 	age: 20,
 	country: "Poland",
 	city: "Lublin",
-	university: "Maria Curie-Sklodowska University - CS",
 	languages: ["polish", "english"],
 	employed: false,
 	bio: "I am a self-taught frontend developer, you can find here repos
