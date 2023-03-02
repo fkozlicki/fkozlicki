@@ -1,6 +1,6 @@
 # Hi, I'm Filip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" >
 
-<em>Beginner Web Developer</em>
+<em>Web Developer</em>
 
 ## 👨‍💻 About Me
 
@@ -18,16 +18,6 @@ const filip = {
 	      to contact me.",
 };
 ```
-
-## 🔧 Technologies & Tools
-
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/react.svg" width="30" style="margin-right: 10px;" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/js.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/html.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/css.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/sass.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/tw.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/bs.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/git.svg" width="30"/> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/vscode.svg" width="30"/>
-
-### 📒 Learning
-
-<img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/ts.svg" width="30" /> <img src="https://github.com/fkozlicki/fkozlicki/blob/main/icons/next.svg" width="30" />
-
-## 📊 Some stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkozlicki&layout=compact&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 
