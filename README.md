@@ -4,20 +4,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const filip = {
-	sex: "male",
-	age: 20,
-	country: "Poland",
-	city: "Lublin",
-	languages: ["polish", "english"],
-	employed: false,
-	bio: "I am a self-taught frontend developer, you can find here repos
-	      of projects and challanges I've been working on. If you want to
-	      ask me something or need a help with centering a div feel free
-	      to contact me.",
-};
-```
+I am computer science student based in Lublin, Poland. I am into developing web applications. Mainly focused on React with TypeScript. Really like exploring new technologies by building interesting projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkozlicki&layout=compact&theme=tokyonight)](https://github.com/fkozlicki/github-readme-stats)
 
